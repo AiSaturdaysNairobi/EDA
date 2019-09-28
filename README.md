@@ -48,14 +48,16 @@ The data documents tracks travel of out and into Busia.
 
 **OBJECTID** : Index of rows
 
+## [Summaries and Distribution](Summaries-and-Distribution.ipynb)
+This notebook discusses ways to summarize data and types of data distributions
+
+## [Data Preparation](Data-Preparation.ipynb)
+This notebook discusses ways to prepare data before passing to model
+
 ## [Images](Images)
 Images used to illustrate concepts
 
 ## [Visualization](Visualization.ipynb)
 This notebook discusses various types of plots
 
-## [Summaries and Distribution](Summaries and Distribution.ipynb)
-This notebook discusses ways to summarize data and types of data distributions
 
-## [Data Preparation](Data Preparation.ipynb)
-This notebook discusses ways to prepare data before passing to model
