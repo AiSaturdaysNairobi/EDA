@@ -1,5 +1,5 @@
 # EDA (Exploratory Data Analysis)
-My journey on learniing exploratory data analysis.I will discuss basic EDA concepts and demonstrate using a dataset used by one of AI Saturdays members. I chose it because it was a simple dataset with a lot of what I needed to demonstrate these concepts
+My journey on learning exploratory data analysis. I discuss basic EDA concepts and demonstrate using a dataset used by one of AI Saturdays members. I chose it because it was a simple dataset with a lot of what I needed to demonstrate these concepts
 . I was inspired to do this because it seemed to me that when it comes to machine learning a lot more focus is on the models rather data.
 
 ### What is EDA
