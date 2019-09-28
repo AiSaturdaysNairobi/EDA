@@ -44,7 +44,7 @@ The data documents tracks travel of out and into Busia.
 
 **Year_text** : Extracted year
 
-**Results_Status** : No fucking idea what this is
+**Results_Status** : No idea what this is
 
 **OBJECTID** : Index of rows
 
